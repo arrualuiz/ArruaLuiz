@@ -12,9 +12,18 @@ Bem-vindo ao meu perfil GitHub 🚀
 
 ## ⭐ Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,excel,powerbi,mysql,git,github,html,css,js,php,wordpress,linux" />
-</p>
+### 💻 Desenvolvimento
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,wordpress" />
+
+### 🛢️ Banco de Dados & Versionamento
+<img src="https://skillicons.dev/icons?i=mysql,git,github" />
+
+### 📊 Dados & BI
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🐧 Ambiente
+<img src="https://skillicons.dev/icons?i=linux,windows" />
 
 ---
 
