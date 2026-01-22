@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, me chamo Arrua!
 
-<!--
-**arrualuiz/ArruaLuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub 🚀
 
-Here are some ideas to get you started:
+- 🎓 Estudante de ADS / Estatística e Ciência de Dados
+- 💻 Focado em desenvolvimento (backend / dados)
+- 🐍 Python | SQL | Power BI | Excel avançado
+- 🔎 Buscando oportunidades para crescer e construir projetos reais
+- ⚡ Curioso, dedicado e apaixonado por resolver problemas com código
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⭐ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,git,github,linux" />
+</p>
+
+---
+
+## 📬 Contato
+
+- 📧 Email: **luizarrua16@gmail.com**
+- 📲 Site: **https://arrualuiz.netlify.app/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/luizarrua/**
+
+---
+
+> “Disciplina vence motivação quando a motivação dá perdido.” 😅
+
+---
+
+## 📊 GitHub Stats (opcional)
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arrualuiz&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrualuiz&layout=compact&theme=tokyonight" />
+</p>
