@@ -94,21 +94,31 @@ Desenvolvedor de software com foco estratégico na convergência entre **desenvo
 
 <br />
 
+### 📊 DASHBOARD DE ATIVIDADE
+
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arrualuiz&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area_color=00ff66&title_color=00ff66&area=true&hide_border=true" alt="Atividades Recentes Matrix Verde" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=arrualuiz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrualuiz&layout=compact&theme=github_dark&hide_border=true" height="165">
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arrualuiz&theme=github-dark-blue&hide_border=true" width="70%">
+
 </div>
 
 <br />
 
 ### 🚀 PROJETOS EM DESTAQUE
 
-| Projeto | Descrição | Stack | Acesso |
-| :--- | :--- | :--- | :---: |
-| 📊 **PUCPR Machine Learning** | Exploração de dados, seleção de atributos e treinamento de modelos de aprendizado de máquina. | `Python` `Scikit-Learn` `Pandas` | [Acessar Repositório ↗](https://github.com/arrualuiz/PUCPRMachineLearning) |
-| ⚡ **Desafio QuiteJá** | Aplicação frontend dinâmica e interativa desenvolvida com foco em usabilidade e performance. | `Vue.js` `JavaScript` `CSS3` | [Acessar Repositório ↗](https://github.com/arrualuiz/desafio-quiteja) |
-| 🌐 **Portal & Dashboard Pessoal** | Interface web moderna reunindo utilitários, widgets, indicadores e atalhos de produtividade. | `TypeScript` `React` `HTML/CSS` | [Acessar Repositório ↗](https://github.com/arrualuiz/arrua-site-novo) |
-| 🤖 **Hub de Automações & APIs** | Integrações automatizadas conectando APIs REST, Webhooks, WhatsApp Business e planilhas inteligentes. | `n8n` `Apps Script` `APIs` | [Acessar Repositório ↗](https://github.com/arrualuiz) |
-
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| 💰 [Arrua Financeiro](https://github.com/arrualuiz/21-Arrua-Financeiro) | Organização financeira pessoal com entradas, saídas, investimentos, cartões e indicadores. | TypeScript |
+| 📱 [Android Notification Reader](https://github.com/arrualuiz/11-AndroidNotificationReader) | Aplicativo Android para interceptar e armazenar notificações em banco local. | Kotlin |
+| 🏦 [OpenFinanceAPI](https://github.com/arrualuiz/20-OpenFinanceAPI) | Projeto voltado a dados e soluções para o ecossistema financeiro. | HTML / APIs |
+| 🧰 [Dev Luiz Arrua](https://github.com/arrualuiz/00-Dev-LuizArrua) | Site pessoal com ferramentas, facilidades e recursos de produtividade. | HTML |
+| 🎱 [Sinuca Geométrica](https://github.com/arrualuiz/33-Sinuca-Geometrica) | Simulador interativo de sinuca desenvolvido com JavaScript. | JavaScript |
 <br />
 
 ### 📡 CONECTE-SE COMIGO
