@@ -81,12 +81,9 @@ Desenvolvedor de software com foco estratégico na convergência entre **desenvo
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrualuiz&theme=github_dark" alt="Estatísticas Gerais" />
       </td>
     </tr>
-    <tr style="background: transparent; border: none;">
-      <td style="border: none; padding: 6px;" width="50%">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arrualuiz&theme=github_dark" alt="Linguagens por Repositório" />
-      </td>
-      <td style="border: none; padding: 6px;" width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arrualuiz&theme=dark&background=0d1117&border=00ff66&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=00ff66&sideNums=00ff66&currStreakLabel=00ff66&sideLabels=00ff66&dates=00ff66&hide_border=true" alt="Streak e Sequência de Commits" />
+        <tr style="background: transparent; border: none;">
+      <td colspan="2" align="center" style="border: none; padding: 6px;">
+        <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arrualuiz&theme=github_dark" alt="Linguagens por Repositório" />
       </td>
     </tr>
   </table>
